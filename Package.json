@@ -1,0 +1,23 @@
+{
+    "name": "library-management-system-api",
+    "version": "1.0.0",
+    "description": "Library Management System API",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.11.16",
+      "cors": "^2.8.5",
+      "dotenv": "^8.2.0"
+    },
+    "devDependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Milkah250/WEEK8.SQL.git"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
